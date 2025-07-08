@@ -3,3 +3,5 @@ This is File A.
 Changing File A in featureA branch.
 
 changing some file in featureB branch.
+
+Added Feature C in FeatureC Branch.
